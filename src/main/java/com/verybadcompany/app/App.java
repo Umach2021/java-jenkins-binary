@@ -1,4 +1,7 @@
 package com.verybadcompany.app;
+/**
+ * Hello world!
+ */
 
 /**
  * Hello world!
